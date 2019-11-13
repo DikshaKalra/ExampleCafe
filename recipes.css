@@ -1,0 +1,28 @@
+ul{
+  list-style-type: square;
+}
+body{background-color: #d98c8c;}
+p {
+  font-family: "Times New Roman", Times, serif;
+}
+ol{
+  list-style-type: lower-alpha;
+}
+ol li {
+  background: #ffe5e5;
+  padding: 5px;
+  margin-left: 35px;
+}
+ul li {
+  background: #ffe5e5;
+  padding: 5px;
+  margin-left: 35px;
+}
+ol {
+  background: #ff9999;
+  padding: 20px;
+}
+ul {
+  background: #ff9999;
+  padding: 20px;
+}
